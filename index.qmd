@@ -1,0 +1,10 @@
+---
+title: "JustinTrenchcoat's Personal Website"
+---
+JustinTrenchcoat's personal website!
+I'll be posting past projects here, maybe something else as well.
+
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
